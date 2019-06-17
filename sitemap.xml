@@ -1,36 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chikaslocalhost.com/portofolio/</loc>
+    <loc>https://chinthaka-dinadasa.github.io/</loc>
+    <lastmod>2018-10-29T20:05:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chinthaka-dinadasa.github.io/portofolio/</loc>
     <lastmod>2018-10-29T20:05:10+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://chikaslocalhost.com/blog/</loc>
+    <loc>https://chinthaka-dinadasa.github.io/blog/</loc>
     <lastmod>2018-10-29T20:01:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://chikaslocalhost.com/contact-me/</loc>
+    <loc>https://chinthaka-dinadasa.github.io/contact-me/</loc>
     <lastmod>2018-10-29T20:00:27+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chikaslocalhost.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chikaslocalhost.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chikaslocalhost.com/</loc>
-    <lastmod>2018-10-29T20:05:10+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

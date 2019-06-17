@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>chikaslocalhost</title>
+    <title>Chinthaka Dinadasa</title>
     <link>https://chinthaka-dinadasa.github.io/</link>
-    <description>Recent content on chikaslocalhost</description>
+    <description>Recent content on Chinthaka Dinadasa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Oct 2018 20:05:10 +0530</lastBuildDate>
-    <atom:link href="https://chinthaka-dinadasa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://chinthaka-dinadasa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Portofolio</title>
@@ -15,56 +17,9 @@
       <pubDate>Mon, 29 Oct 2018 20:05:10 +0530</pubDate>
       
       <guid>https://chinthaka-dinadasa.github.io/portofolio/</guid>
-      <description>
-
-&lt;h2 id=&#34;experience-summary:50f81ae6796aa02f2bbe3c408a362361&#34;&gt;Experience Summary&lt;/h2&gt;
-
-&lt;p&gt;Backend Development - Java 8 / 7 | Spring Boot | Spring MVC | Spring Security | Spring Data | Spring Cloud | Eureka Service Registry | Zuul Proxy | JPA | Hibernate | MySQL | MongoDB | Apache Derby | Gitlab CI/CD | GitHub | Swagger2 | Groovy&lt;/p&gt;
-
-&lt;p&gt;Frontend Development - Angular JS | HTML 5 | CSS3 | JQuery&lt;/p&gt;
-
-&lt;p&gt;Deployment Servers / Environments - Apache Tomcat | Kubernates | Docker&lt;/p&gt;
-
-&lt;p&gt;Specialized in: Java Based Backend Development | Microservices | Fintech Solutions&lt;/p&gt;
-
-&lt;p&gt;Tools: IntelliJ idea | Eclipse | SonarQube | Zipkin for Distributed Tracing&lt;/p&gt;
-
-&lt;h2 id=&#34;professional-experience:50f81ae6796aa02f2bbe3c408a362361&#34;&gt;Professional Experience&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.99xtechnology.com/&#34;&gt;&lt;h4&gt;99X Technology&lt;/h4&gt;&lt;/a&gt;
-Senior Software Engineer
-&lt;br&gt;
-From 15-10-2018 (Current Employer)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.fortunaglobal.com/&#34;&gt;&lt;h4&gt;Fortunaglobal (Pvt) Ltd&lt;/h4&gt;&lt;/a&gt;
-Senior Software Engineer
-&lt;br&gt;
-From 01-03-2017 to 12-10-2018&lt;/p&gt;
-
-&lt;p&gt;Software Engineer
-&lt;br&gt;
-From 12-07-2015 to 01-03-2017&lt;/p&gt;
-
-&lt;p&gt;Associate Software Engineer
-&lt;br&gt;
-From 12-08-2014 to 12-07-2015&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/company/kraken-media/&#34;&gt;&lt;h4&gt;Kraken Media (Pvt) Ltd&lt;/h4&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Associate Software Engineer
-&lt;br&gt;
-From 23-04-2013 to 12-08-2014&lt;/p&gt;
-
-&lt;h2 id=&#34;education-professional-qualifications:50f81ae6796aa02f2bbe3c408a362361&#34;&gt;Education &amp;amp; Professional Qualifications&lt;/h2&gt;
-
-&lt;p&gt;Bachelor of Software Engineering (Graduated)
-&lt;br&gt;
-The Open University of Sri Lanka&lt;/p&gt;
-
-&lt;p&gt;Oracle Certified Java Programmer
-&lt;br&gt;
-Oracle Cooperation&lt;/p&gt;
-</description>
+      <description>Experience Summary Backend Development - Java 8 / 7 | Spring Boot | Spring MVC | Spring Security | Spring Data | Spring Cloud | Eureka Service Registry | Zuul Proxy | JPA | Hibernate | MySQL | MongoDB | Apache Derby | Gitlab CI/CD | GitHub | Swagger2 | Groovy
+Frontend Development - Angular JS | HTML 5 | CSS3 | JQuery
+Deployment Servers / Environments - Apache Tomcat | Kubernates | Docker</description>
     </item>
     
     <item>
@@ -73,26 +28,11 @@ Oracle Cooperation&lt;/p&gt;
       <pubDate>Mon, 29 Oct 2018 20:01:58 +0530</pubDate>
       
       <guid>https://chinthaka-dinadasa.github.io/blog/</guid>
-      <description>&lt;h4&gt;MICROSERVICES&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@chinthakadinadasa/building-microservices-with-spring-boot-part-01-bca4d6112236&#34;&gt;BUILDING MICROSERVICES WITH SPRING BOOT — PART 01&lt;/a&gt; - Spring Boot | Spring Cloud Netflix Eureka&lt;/p&gt;
-
-&lt;p&gt;Implementing Spring Boot based Microservices project from scratch. Here I&amp;rsquo;ve used Spring Boot, Spring Cloud with Eureka Service Registry.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@chinthakadinadasa/building-microservice-with-spring-boot-part-02-c9fb8845c0d5&#34;&gt;BUILDING MICROSERVICES WITH SPRING BOOT — PART 02&lt;/a&gt; - Configuring routing with Zuul API Gateway&lt;/p&gt;
-
-&lt;p&gt;Configuring Zuul API Gateway for Spring Clound Netflix Eureka with Spring Boot.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@chinthakadinadasa/building-microservice-with-spring-boot-part-03-56b87eea5d23&#34;&gt;BUILDING MICROSERVICES WITH SPRING BOOT — PART 03&lt;/a&gt; - Secure API Gateway | Authentication and Authorization | JWT&lt;/p&gt;
-
-&lt;p&gt;Configuring Authentication and Authorization to Spring Boot Microservices project with Authentication service. Here I&amp;rsquo;ve used JWT (JSON Web Token), Spring Security to implement authentication service and Mongo DB for user store.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gitlab.com/microservice-project-medium&#34;&gt;FIND CODE BASE FOR MICROSERVICES PROJECT ON GITLAB&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4&gt;OTHER&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://medium.com/@chinthakadinadasa/develop-a-cli-tool-using-groovy-scripts-a7d545eecddd&#34;&gt;DEVELOP A CLI TOOL USING GROOVY SCRIPTS&lt;/a&gt; - Apache groovy, one of the best tools to develop very own CLI&lt;/p&gt;
-</description>
+      <description>MICROSERVICES BUILDING MICROSERVICES WITH SPRING BOOT — PART 01 - Spring Boot | Spring Cloud Netflix Eureka
+Implementing Spring Boot based Microservices project from scratch. Here I&amp;rsquo;ve used Spring Boot, Spring Cloud with Eureka Service Registry.
+BUILDING MICROSERVICES WITH SPRING BOOT — PART 02 - Configuring routing with Zuul API Gateway
+Configuring Zuul API Gateway for Spring Clound Netflix Eureka with Spring Boot.
+BUILDING MICROSERVICES WITH SPRING BOOT — PART 03 - Secure API Gateway | Authentication and Authorization | JWT</description>
     </item>
     
     <item>
@@ -101,12 +41,7 @@ Oracle Cooperation&lt;/p&gt;
       <pubDate>Mon, 29 Oct 2018 20:00:27 +0530</pubDate>
       
       <guid>https://chinthaka-dinadasa.github.io/contact-me/</guid>
-      <description>
-
-&lt;h2 id=&#34;want-contact:3bb80aaa36c969d0800509f5e8780164&#34;&gt;Want Contact?&lt;/h2&gt;
-
-&lt;p&gt;Have questions or suggestions? Feel free to &lt;a href=&#34;https://github.com/chikaslocalhost/&#34;&gt;open an issue on GitHub&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/chika_tweets/&#34;&gt;ask me on Twitter&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Want Contact? Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
     </item>
     
   </channel>

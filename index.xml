@@ -28,11 +28,25 @@ Deployment Servers / Environments - Apache Tomcat | Kubernates | Docker</descrip
       <pubDate>Mon, 29 Oct 2018 20:01:58 +0530</pubDate>
       
       <guid>https://chinthaka-dinadasa.github.io/blog/</guid>
-      <description>MICROSERVICES BUILDING MICROSERVICES WITH SPRING BOOT — PART 01 - Spring Boot | Spring Cloud Netflix Eureka
+      <description>MICROSERVICES WITH SPRINGBOOT BUILDING MICROSERVICES WITH SPRING BOOT — PART 01 - Spring Boot | Spring Cloud Netflix Eureka
 Implementing Spring Boot based Microservices project from scratch. Here I&amp;rsquo;ve used Spring Boot, Spring Cloud with Eureka Service Registry.
 BUILDING MICROSERVICES WITH SPRING BOOT — PART 02 - Configuring routing with Zuul API Gateway
 Configuring Zuul API Gateway for Spring Clound Netflix Eureka with Spring Boot.
 BUILDING MICROSERVICES WITH SPRING BOOT — PART 03 - Secure API Gateway | Authentication and Authorization | JWT</description>
+    </item>
+    
+    <item>
+      <title>FIND CODE BASE FOR MICROSERVICES PROJECT ON GITLAB</title>
+      <link>https://chinthaka-dinadasa.github.io/source-code-microservices-project/</link>
+      <pubDate>Mon, 29 Oct 2018 20:01:58 +0530</pubDate>
+      
+      <guid>https://chinthaka-dinadasa.github.io/source-code-microservices-project/</guid>
+      <description>Here It Includes All the sources of Microservices Project I&#39;m Developing with SpringBoot. Blog URL
+API SERVICE REGISTRY
+API GATEWAY
+API AUTHENTICATION SERVICE
+API USER SERVICE
+API NEWS SERVICE</description>
     </item>
     
     <item>
